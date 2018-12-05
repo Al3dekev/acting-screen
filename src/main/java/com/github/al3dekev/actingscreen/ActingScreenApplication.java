@@ -9,8 +9,8 @@ public class ActingScreenApplication {
     public static void main(String[] args) {
         SpringApplication.run(ActingScreenApplication.class, args);
 
+        WindowScreen myWindow = new WindowScreen();
 
-        
 
     }
 }
